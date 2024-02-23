@@ -30,7 +30,9 @@
     5. The variable ax represents a single plot in the figure
     6. plot() method will try to plot the data it’s given
     7. The function plt.show() opens Matplotlib’s viewer and displays the plot
+
 ### Expected Results
+
     If Everything works correctly the following should be the sample output/result
 
-![Outpt](./output.png)
+![Output](./output.png)

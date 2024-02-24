@@ -34,5 +34,6 @@
 ### Expected Results
 
     If Everything works correctly the following should be the sample output/result
+    Your outpust should appear as shown below
 
 ![Output](./output.png)

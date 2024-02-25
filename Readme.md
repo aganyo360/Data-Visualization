@@ -37,3 +37,19 @@
     Your outpust should appear as shown below
 
 ![Output](./output.png)
+
+###### NOTE:
+
+    In order to increase the linewidth for better visualization
+    change the code to
+
+<code>
+    import matplotlib.pyplot as plt
+    
+    squares =[1,4,9,16,25, 36]
+    fig, ax = plt.subplots()
+    ax.plot(squares, linewidth=5)
+    plt.savefig('output.png')
+    plt.show()
+
+</code>
